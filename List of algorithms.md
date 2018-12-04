@@ -10,7 +10,7 @@
 
 3.Uniform Cost Search:-
 
-    Uniform cost search is a tree searching algorithm identified with the breadth-first search. Uniform cost search decides a way to the goal state that has the lowest weight. The algorithm assumes that all edges weight above equal to or above to 0. On the off chance that any edges have negative weight, it is conceivable that a path p starts with a vertex whose edge to its parent vertex have a high positive weight, which will bar it from consideration by the algorithm.
+   Uniform cost search is a tree searching algorithm identified with the breadth-first search. Uniform cost search decides a way to the goal state that has the lowest weight. The algorithm assumes that all edges weight above equal to or above to 0. On the off chance that any edges have negative weight, it is conceivable that a path p starts with a vertex whose edge to its parent vertex have a high positive weight, which will bar it from consideration by the algorithm.
 
 4.Dijkstra's Algorithm:-
 
